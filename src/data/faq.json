@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is Hirrd?",
+    "answer": "Hirrd is a Job Portal Application that allows companies to post job listings and users to search and apply for jobs. It provides features for both job seekers and employers, with user-friendly interfaces and secure authentication."
+  },
+  {
+    "question": "How do I post a job?",
+    "answer": "As an employer, you can post a job by navigating to the 'Post Job' section after logging in. Fill in the job details and submit the form to create a new job listing."
+  },
+  {
+    "question": "How can I search for jobs?",
+    "answer": "Job seekers can search for jobs by keywords, location, category, and other filters using the search bar on the homepage or the dedicated job search page."
+  },
+  {
+    "question": "How do I apply for a job?",
+    "answer": "To apply for a job, click on the job listing and follow the application instructions provided. You may need to upload your resume and provide additional information."
+  },
+  {
+    "question": "Can I save jobs to apply later?",
+    "answer": "Yes, you can save job listings by clicking the 'Save Job' button on the job listing. Saved jobs can be accessed from your profile under the 'Saved Jobs' section."
+  },
+  {
+    "question": "How do I track my job applications?",
+    "answer": "Job seekers can track the status of their applications from the 'Applications' section in their profile. This section provides updates on the progress of each application."
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "You can create an account by clicking on the 'Sign Up' button on the homepage, filling in the required details, and verifying your email address."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on the 'Forgot Password' link on the login page, enter your registered email, and follow the instructions sent to your email to reset your password."
+  },
+  {
+    "question": "Can I delete my account?",
+    "answer": "Yes, you can delete your account from the 'Settings' page in your profile. Please note that this action is permanent and cannot be undone."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can reach out to our customer support team by navigating to the 'Contact Us' page and submitting the form or emailing us directly."
+  },
+  {
+    "question": "What types of jobs are listed on Hirrd?",
+    "answer": "Hirrd lists a wide range of jobs, including full-time, part-time, remote, freelance, and internship opportunities across various industries."
+  },
+  {
+    "question": "How do I edit my profile information?",
+    "answer": "You can edit your profile information by navigating to the 'Profile' section, clicking 'Edit Profile,' and making the desired changes."
+  },
+  {
+    "question": "How are job recommendations personalized?",
+    "answer": "Job recommendations are personalized based on your profile information, job search history, and saved jobs."
+  },
+  {
+    "question": "How do I report inappropriate job listings?",
+    "answer": "To report an inappropriate job listing, click on the 'Report' button available on the job details page and provide the reason for reporting."
+  },
+  {
+    "question": "Does Hirrd support remote job listings?",
+    "answer": "Yes, Hirrd supports remote job listings, and you can filter for remote jobs in the job search filters."
+  }
+]
