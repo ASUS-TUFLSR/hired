@@ -7,7 +7,7 @@ import JobListing from "./pages/JobListing"
 import JobPosting from "./pages/JobPosting"
 import MyJobs from "./pages/MyJobs"
 import SavedJobs from "./pages/SavedJobs"
-import ProtectedRoute from "./components/ui/ProtectedRoute"
+import ProtectedRoute from "./components/ProtectedRoute"
 import { ThemeProvider } from "./components/ui/theme-provider"
 
 const router = createBrowserRouter([
