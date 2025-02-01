@@ -10,6 +10,9 @@ const Onboarding = () => {
 
   const {user, isLoaded} = useUser();
 
+  console.log("Userr",user)
+  console.log("IsLoaded", isLoaded);
+
   if(!isLoaded){
     <BarLoader className="mb-4" width={"100%"} color="#36d7b7" />;
   }
@@ -31,7 +34,7 @@ const Onboarding = () => {
      navigate(user?.unsafeMetadata?.role === 'recruiter' ? '/post-Job' : "/jobs")
 
     }
-  })
+  }, [user]);
 
   // console.log(user)
   
